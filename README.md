@@ -442,9 +442,9 @@ Validation and test images are processed using deterministic preprocessing to en
 
 ---
 
-# Repository Structure
+## Repository Structure
 
-
+```text
 rice-leaf-disease-detection/
 │
 ├── notebooks/
@@ -469,7 +469,7 @@ rice-leaf-disease-detection/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
+```
 
 The repository structure may evolve as additional experiments and deployment components are added.
 
