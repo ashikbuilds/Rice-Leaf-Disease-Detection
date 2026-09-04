@@ -448,31 +448,21 @@ Validation and test images are processed using deterministic preprocessing to en
 rice-leaf-disease-detection/
 │
 ├── notebooks/
-│   │
 │   ├── 01_Dataset_Analysis.ipynb
-│   │
 │   ├── 02_Baseline_ConvNeXtV2_Tiny.ipynb
-│   │
 │   ├── 03_Baseline_EfficientNetV2.ipynb
-│   │
 │   ├── 04_Dual_Branch_CNN.ipynb
-│   │
 │   ├── 05_RiceFusionNet_5Fold_CV.ipynb
-│   │
 │   ├── 06_Ablation_Study.ipynb
-│   │
 │   ├── 07_Cross_Generalization.ipynb
-│   │
 │   └── 08_Deployment.ipynb
 │
 ├── results/
-│   │
 │   ├── figures/
 │   ├── confusion_matrices/
 │   └── metrics/
 │
 ├── deployment/
-│   │
 │   └── app.py
 │
 ├── requirements.txt
